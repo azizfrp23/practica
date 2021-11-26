@@ -12,7 +12,9 @@ ul{
     background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(66,78,70,1) 50%, rgba(0,0,0,1) 100%);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    width: 90%;
+    padding: 10px 5%;
 }
 .nav h1{
     color: whitesmoke;
